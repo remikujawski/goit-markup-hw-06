@@ -532,12 +532,16 @@ img{
 
 /******************************** SUBSCRIBTION ********************************/
 
+.social-info{
+    padding-right: 80px;
+}
+
 .subscription-form{
     display: flex;
     gap: 24px;
 }
 .subscription-form-label{
-    gap: 24px;
+    display: inline-flex;
 }
 .subscription-form-input{
     font-family: var(--ROBOTO), sans-serif;
