@@ -102,6 +102,8 @@ img{
 }
 .header .link-nav{
     position: relative;
+}
+.header .link-active{
     color: var(--OCEAN);
 }
 .link-active::after{
