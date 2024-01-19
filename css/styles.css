@@ -223,7 +223,7 @@ img{
     padding-bottom: 48px;
     margin-left: auto;
     margin-right: auto;
-    
+    text-align: center;
 }
 .studio-section-first{
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url("../images/people-office.jpg");
@@ -663,7 +663,7 @@ img{
 .modal-form-input:focus{
     border-color: #4D5AE5;
 }
-.modal-form-icon:focus-within{
+.modal-form-input:focus-within + .modal-form-icon{
     fill: #4D5AE5;
 }
 
