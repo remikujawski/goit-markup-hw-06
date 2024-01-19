@@ -112,6 +112,7 @@ img{
     height: 4px;
     background-color: var(--OCEAN);
     border-radius: 2px;
+    width: 100%;
 }
 
 .header .link-nav,
@@ -522,3 +523,7 @@ img{
     border: none;
 }
 
+.modal-close:hover .modal-close-icon,
+.modal-close:focus .modal-close-icon{
+    fill: #ffffff;
+}
