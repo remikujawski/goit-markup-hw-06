@@ -639,7 +639,7 @@ img{
 .modal-form-input:focus{
     border-color: #4D5AE5;
 }
-.modal-form-input:focus .modal-form-icon{
+.modal-form-input:focus .modal-form-icon:focus-within{
     fill: #4D5AE5;
 }
 
