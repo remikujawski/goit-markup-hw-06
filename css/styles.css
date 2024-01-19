@@ -540,6 +540,7 @@ img{
 
 }
 .subscription-form-input{
+    display: flex;
     width: 264px;
     height: 40px;
     border: 1px solid #ffffff;
