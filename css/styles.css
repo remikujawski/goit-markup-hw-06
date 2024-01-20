@@ -417,7 +417,9 @@ img{
 .portfolio-section .item-button:hover,
 .portfolio-section .item-button:focus,
 .modal-layer .modal-form-send:hover,
-.footer .subscription-button:hover{
+.modal-layer .modal-form-send:focus,
+.footer .subscription-button:hover,
+.footer .subscription-button:focus{
     color: white;
     background-color: var(--OCEAN);
     border: 1px solid transparent;
